@@ -52,25 +52,31 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-- Backend  
-  <p align="left">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,python" />
-  </p>
+<!-- Backend -->
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel" />
+</p>
 
-- Frontend  
-  <p align="left">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,html,css" />
-  </p>
+<!-- Frontend -->
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,html,css,sass,bootstrap,mui,vue" />
+</p>
 
-- Database  
-  <p align="left">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
-  </p>
 
-- Cloud & DevOps  
-  <p align="left">
-    <img src="https://skillicons.dev/icons?i=aws,docker,gcp,vercel" />
-  </p>
+<!-- Database -->
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+
+<!-- Cloud & DevOps -->
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,vercel" />
+  <img src="https://seeklogo.com/images/H/hostinger-logo-0DC12E2D4C-seeklogo.com.png" alt="Hostinger" height="40"/>
+  <img src="https://seeklogo.com/images/G/godaddy-logo-3FAD3D07F0-seeklogo.com.png" alt="GoDaddy" height="40"/>
+  <img src="https://seeklogo.com/images/N/netlify-logo-758722CDF4-seeklogo.com.png" alt="Netlify" height="40"/>
+</p>
+
 
 - Tools  
   <p align="left">
