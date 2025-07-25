@@ -33,7 +33,7 @@
 
 - 🔭 Currently delivering scalable web and mobile solutions  
 - 🌱 Constantly innovating with latest technologies  
-- 💬 Let's talk about your project: [hello@scopecode.tech](mailto:hello@scopecode.tech)  
+- 💬 Let's talk about your project: [scopecode.info@gmail.com](mailto:scopecode.info@gmail.com)  
 - 📄 Read more on [LinkedIn](https://www.linkedin.com/company/scope-code)
 
 ---
