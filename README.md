@@ -22,7 +22,7 @@
 <div align="center">
   <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" width="50" height="50" />
+  
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50" height="50" />
